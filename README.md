@@ -11,5 +11,5 @@ This project models an exam where :
   The final grade is the number of correct answers
   To pass the exam the grade should be greather than 10 .
 
-My probability of passing the exam anwering randomly is 0.9996.
+My probability of passing the exam anwering randomly is averaging 0.9996.
 
